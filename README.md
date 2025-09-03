@@ -11,7 +11,8 @@
 </p>
 
 I’m a builder exploring where **AI, psychology, and creativity** meet.  
-Right now I’m developing **ClipFinder** from scratch — a focused step toward tools that make discovery and connection feel effortless.
+I’m building **ClipFinder** from scratch — an AI-powered tool designed to make discovering and sharing short, meaningful content effortless.  
+This project is my way of exploring how generative AI can simplify search, boost creativity, and connect people through smarter discovery.
 
 ### Focus & Tech
 - **Python**
