@@ -27,3 +27,6 @@ What shapes my work: **football, psychology, and storytelling** — I aim for pr
 ### Connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/abhiralpokharel/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&logo=github&logoColor=white)](https://github.com/abiralpokhrel-learns)
+
+### Stats and dev activities 
+![abiral's GitHub stats](https://github-readme-stats.vercel.app/api?username=abiralpokhrel-learns&show_icons=true&theme=gruvbox)
