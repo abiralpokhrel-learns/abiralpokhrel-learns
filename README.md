@@ -1,6 +1,6 @@
 # Hi, I'm Abiral 👋  
 
-I’m a curious builder passionate about **AI, psychology, and creativity**.  
+I’m a builder passionate about **AI, psychology, and creativity**.  
 Right now, I’m working on **ClipFinder**, a project I’m building from scratch, and I’ll be adding more unique projects soon.  
 
 My goal is to combine **generative AI** with human-centered design to create tools that are both powerful and meaningful.  
