@@ -1,12 +1,14 @@
 <!-- Profile Image -->
-<p align="center">
+
+
+
+# Hi, I'm Abiral 👋
+<p align="left">
   <a href="https://github.com/abiralpokhrel-learns">
     <img src="https://github.com/abiralpokhrel-learns/abiralpokhrel-learns/blob/main/IMG_2982%20(1).jpg?raw=true" 
          alt="Abiral Pokhrel" width="180">
-  </a>
+           </a>
 </p>
-
-# Hi, I'm Abiral 👋
 
 I’m a builder exploring where **AI, psychology, and creativity** meet.  
 Right now I’m developing **ClipFinder** from scratch — a focused step toward tools that make discovery and connection feel effortless.
