@@ -1,15 +1,17 @@
 # Hi, I'm Abiral 👋  
 
-I’m a builder at heart, exploring the space where **AI, psychology, and creativity** intersect.  
-Currently, I’m developing **ClipFinder** from scratch — the first of many projects where I aim to turn abstract ideas into practical tools.  
+I’m a builder at heart, exploring where **AI, psychology, and creativity** meet.  
+Right now, I’m working on **ClipFinder**, a project I’m building from the ground up — designed to make discovery and connection easier in the digital age. It’s the first of many projects where I aim to turn ambitious ideas into real, usable tools.  
 
-I specialize in **generative AI integration**:  
+I specialize in **Generative AI integration**, with a focus on:  
 - Prompt Engineering & Fine-tuning LLMs  
-- Hugging Face / OpenAI APIs  
-- AI-powered applications (chatbots, content creation, image generation)  
-- Ethical AI deployment  
+- Hugging Face & OpenAI APIs  
+- Building AI-powered apps (chatbots, content generation, image models)  
+- Ethical and responsible AI deployment  
 
-Beyond code, I find meaning in **football, psychology, and storytelling** — shaping how I design and create.  
+What sets my work apart is my perspective: I’m not just coding — I’m shaping tools informed by **psychology, storytelling, and human behavior**. This mindset helps me create applications that feel meaningful, not just functional.  
+
+Outside of coding, you’ll find me on the football field, exploring big questions about the mind, or writing — all of which fuel how I think, build, and create.  
 
 ---
 
