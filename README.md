@@ -1,33 +1,22 @@
 # Hi, I'm Abiral 👋  
 
-I’m a builder passionate about **AI, psychology, and creativity**.  
-Right now, I’m working on **ClipFinder**, a project I’m building from scratch, and I’ll be adding more unique projects soon.  
+I’m a builder at heart, exploring the space where **AI, psychology, and creativity** intersect.  
+Currently, I’m developing **ClipFinder** from scratch — the first of many projects where I aim to turn abstract ideas into practical tools.  
 
-My goal is to combine **generative AI** with human-centered design to create tools that are both powerful and meaningful.  
+I specialize in **generative AI integration**:  
+- Prompt Engineering & Fine-tuning LLMs  
+- Hugging Face / OpenAI APIs  
+- AI-powered applications (chatbots, content creation, image generation)  
+- Ethical AI deployment  
 
----
-
-## 🛠️ Tech Stack & Focus  
-- **Python**  
-- **Generative AI Integration**  
-  - Prompt Engineering  
-  - Fine-tuning Large Language Models (LLMs)  
-  - Hugging Face & OpenAI APIs  
-  - Building AI-powered apps (chatbots, content generation, image AI)  
-  - Ethical deployment of AI  
+Beyond code, I find meaning in **football, psychology, and storytelling** — shaping how I design and create.  
 
 ---
 
-## 🌱 Beyond Code  
-I’m fascinated by how **psychology, storytelling, and creativity** shape the way we interact with technology.  
-Outside of coding, I’m a **football enthusiast**, writer, and explorer of new ideas.  
+## 📫 Connect with me  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/abhiralpokharel/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&logo=github&logoColor=white)](https://github.com/abiralpokhrel-learns)  
 
 ---
 
-## 📫 Let’s Connect  
-- Instagram: [@abhiralpokharel](https://www.instagram.com/abhiralpokharel/)  
-- GitHub: [abiralpokhrel-learns](https://github.com/abiralpokhrel-learns)  
-
----
-
-💡 *“I believe the best tech doesn’t just solve problems — it inspires new possibilities.”*
+💡 *“The best technology doesn’t just solve problems — it expands what we believe is possible.”*
