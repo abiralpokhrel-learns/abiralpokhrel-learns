@@ -1,4 +1,6 @@
-# Hi, I'm Abiral 👋  
+# Hi, I'm Abiral 👋 
+
+![image](https://github.com/abiralpokhrel-learns/abiralpokhrel-learns/blob/main/IMG_2982%20(1).jpg?raw=true)
 
 I’m a builder at heart, exploring where **AI, psychology, and creativity** meet.  
 Right now, I’m working on **ClipFinder**, a project I’m building from the ground up — designed to make discovery and connection easier in the digital age. It’s the first of many projects where I aim to turn ambitious ideas into real, usable tools.  
