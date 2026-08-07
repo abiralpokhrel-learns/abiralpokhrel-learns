@@ -2,8 +2,7 @@
  
 <p align="left">
   <a href="https://github.com/abiralpokhrel-learns">
-    <img src="https://github.com/abiralpokhrel-learns/abiralpokhrel-learns/blob/main/IMG_2982%20(1).jpg?raw=true"
-         alt="Abiral Pokhrel" width="180">
+  
   </a>
 </p>
 Junior Data Engineer | BSc IT (in progress) | Nepal
