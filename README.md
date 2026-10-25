@@ -8,6 +8,9 @@
 Junior Data Engineer | BSc IT (in progress) | Nepal
 
 I build end-to-end data engineering systems that look like the ones real data teams run, not like tutorial code. Two production-style projects on this profile, both shipped solo. Currently looking for a **remote junior DE or DE internship** for the next 2.5 to 3 months. Open to relocation in India. Hire-ready as an international contractor via Deel or Wise.
+### Tech I work with
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694A?logo=dbt&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 ---
 
