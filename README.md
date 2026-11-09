@@ -7,7 +7,7 @@
 </p>
 Junior Data Engineer | BSc (Hons) Computer Systems Engineering (IT) — ISMT College Butwal, University of Sunderland | Nepal
 
-I build end-to-end data engineering systems that look like the ones real data teams run, not like tutorial code. Three production-style projects on this profile, all shipped solo. Currently looking for a **remote junior DE or DE internship** for the next 2.5 to 3 months. Open to relocation in India. Hire-ready as an international contractor via Deel or Wise.
+I build end-to-end data engineering systems that look like the ones real data teams run, not like tutorial code. Four production-style projects on this profile, all shipped solo. Currently looking for a **remote junior DE or DE internship** for the next 2.5 to 3 months. Open to relocation in India. Hire-ready as an international contractor via Deel or Wise.
 ### Tech I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694A?logo=dbt&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
@@ -25,6 +25,9 @@ End-to-end analytical platform for ~100K Brazilian e-commerce orders. Star schem
 Serverless AWS data platform that ingests every public GitHub event hourly, models trends with dbt-core on a Glue + Athena lakehouse, and runs semantic search over the top 500 trending repos using sentence-transformers. 100% Terraform-provisioned (Lambda, EventBridge, Glue, S3, IAM, S3+DynamoDB remote state). Total operating cost: under $2/month.
 
 3. Ledger-Sentinel — Python · SQL — Invoice-checking pipeline that scans invoices and flags duplicates and errors — checks run, issues get caught, clean records pass through.
+
+**Query Engine (qe)** · *C++20 · Parquet · CUDA · DuckDB* — Columnar SQL query engine built from scratch. Reads Parquet with column pruning and predicate pushdown, runs a vectorized operator pipeline, and proves every result against DuckDB across 175 tests. Optional CUDA path for global aggregates, measured honestly on an RTX 3050: roughly tied with CPU. Wins 3, loses 5 of 8 benchmarks on 1M rows, both shown.
+
 ---
 
 ### Stack
