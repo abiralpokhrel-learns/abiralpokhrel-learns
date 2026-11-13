@@ -26,7 +26,7 @@ Serverless AWS data platform that ingests every public GitHub event hourly, mode
 
 3. Ledger-Sentinel — Python · SQL — Invoice-checking pipeline that scans invoices and flags duplicates and errors — checks run, issues get caught, clean records pass through.
 
-**Query Engine (qe)** · *C++20 · Parquet · CUDA · DuckDB* — Columnar SQL query engine built from scratch. Reads Parquet with column pruning and predicate pushdown, runs a vectorized operator pipeline, and proves every result against DuckDB across 175 tests. Optional CUDA path for global aggregates, measured honestly on an RTX 3050: roughly tied with CPU. Wins 3, loses 5 of 8 benchmarks on 1M rows, both shown.
+**Query Engine (qe)** · *C++20 · Parquet · CUDA · DuckDB* — Columnar SQL query engine built from scratch. Reads Parquet with column pruning and predicate pushdown, runs a vectorized operator pipeline, and proves every result against DuckDB across 194 tests. Optional CUDA path for global aggregates, measured honestly on an RTX 3050: roughly tied with CPU. Wins 3, loses 5 of 8 benchmarks on 1M rows, both shown.
 
 ---
 
